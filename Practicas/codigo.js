@@ -11,5 +11,5 @@ var meses = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio",
 
 var i = meses.length - 1;   
 for(; i>=0; i--){
-    // console.log(meses[i]);
+    console.log(meses[i]);
 }
