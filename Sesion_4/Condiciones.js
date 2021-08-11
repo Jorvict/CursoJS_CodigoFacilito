@@ -40,7 +40,7 @@ if(numero_tres){
 
 // ---------------------------------------------------------------------
 /*Operador AND &&, consiste en que se pasan varias condiciones, y 
-si se cumplen TODAS, la estructura condicional se cumpliera,pero
+si se cumplen TODAS, la estructura condicional se cumplira,pero
 sí algunas de las condiciones son falsas, el bloque condicional
 no se ejecutará */
 if(numero_uno && true){
